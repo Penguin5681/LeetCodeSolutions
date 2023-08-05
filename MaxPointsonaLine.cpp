@@ -1,3 +1,5 @@
+// 149. Max Points on a Line
+
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -26,10 +28,3 @@ public:
         return result;
     }
 };
-
-signed main(void) {
-    // Sample Test Case
-    // Solution s;
-    // vector<vector<int>> points = {{1, 1}, {2, 2}, {3, 3}};
-    // cout << s.maxPoints(points);
-}
