@@ -1,6 +1,4 @@
 # 844. Backspace String Compare
-
-#include <bits/stdc++.h>
 class Solution:
     def backspaceCompare(self, s: str, t: str) -> bool:
 
