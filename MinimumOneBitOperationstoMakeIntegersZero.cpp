@@ -7,7 +7,7 @@ using namespace std;
 class Solution {
 public:
     int minimumOneBitOperations(int n) {
-        std::unordered_map<int, int> memo;
+        unordered_map<int, int> memo;
         return dfs(n, memo);
     }
 
